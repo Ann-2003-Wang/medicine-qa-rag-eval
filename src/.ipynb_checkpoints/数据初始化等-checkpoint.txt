@@ -1,0 +1,21 @@
+qa_project/
+│
+├── data/
+│   └── 1.exam.json
+│
+├── outputs/
+│   ├── predictions.csv
+│   └── metrics.csv
+│
+├── src/
+│   ├── data_utils.py #数据读取脚本
+│   ├── llm_client.py#模型调用，
+│   ├── prompts.py
+│   └── parser.py
+│
+├── notebooks/
+│   └── exploration.ipynb
+│
+├── run_eval.py
+├── requirements.txt
+└── README.md

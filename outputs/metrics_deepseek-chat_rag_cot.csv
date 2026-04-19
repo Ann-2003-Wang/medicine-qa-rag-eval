@@ -1,0 +1,2 @@
+﻿n_samples,accuracy,avg_latency,api_success_rate,parse_success_rate,model,strategy,total_time_sec,samples_per_sec
+100,0.82,10.8375,1.0,0.98,deepseek-chat,rag_cot,1084.73,0.0922
