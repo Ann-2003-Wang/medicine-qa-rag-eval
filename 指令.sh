@@ -7,7 +7,7 @@ wget -O qa_project/data/1.exam.json "https://NLP-course-cuhksz.github.io/Assignm
 pip install -r requirements.txt
 
 #环境
-export DEEPSEEK_API_KEY="sk-ed23ef1a37134535a8d93be537a575d0"
+export DEEPSEEK_API_KEY="sk-？？？？"
 export DEEPSEEK_BASE_URL="https://api.deepseek.com"
 
 #跑
